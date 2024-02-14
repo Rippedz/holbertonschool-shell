@@ -1,0 +1,2 @@
+#!/bin/bzsh
+chown betty:holberton ./*
