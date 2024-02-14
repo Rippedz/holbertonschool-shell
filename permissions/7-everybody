@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 755 hello
+touch hello chmod 640 hello ./7-everybody ls -l hello
